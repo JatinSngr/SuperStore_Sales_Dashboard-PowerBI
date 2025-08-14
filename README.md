@@ -69,3 +69,6 @@ Attribution is appreciated if used for demonstrations or learning.
 
 ---
 
+## Screenshot of the Dashboard
+https://github.com/JatinSngr/SuperStore_Sales_Dashboard-PowerBI/blob/main/SalesDash_SHOT.PNG
+
